@@ -5,7 +5,7 @@ AI video generation model created with currently available opensource models and
 ## Description
 
 Not a traditional video generation model. The project gives video as output for the input text. Unconventional Video generation (as seen in some motivational video in YouTube) presenting image slides with stories in the back.
-The usecase currently is telling video stories to kids, creating motivational videos, convert simple text to video online with the latest model.
+The usecase currently is telling video stories to kids, creating motivational videos, convert simple text to video online with the latest possible opensource models.
 
 (Under development.)
 
