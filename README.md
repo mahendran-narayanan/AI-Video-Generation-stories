@@ -13,9 +13,9 @@ The usecase currently is telling video stories to kids, creating motivational vi
 
 ## Audio model
 
-We use the MeloTTS model. MeloTTS is a high-quality multi-lingual text-to-speech library by (MIT)[https://www.mit.edu/] and (MyShell.ai)[https://myshell.ai/].
+We use the MeloTTS model. MeloTTS is a high-quality multi-lingual text-to-speech library by [MIT](https://www.mit.edu/) and [MyShell.ai](https://myshell.ai/).
 
-Model card : (MeloTTS-English)[https://huggingface.co/myshell-ai/MeloTTS-English]
+Model card : [MeloTTS-English](https://huggingface.co/myshell-ai/MeloTTS-English)
 
 ## Video model
 
